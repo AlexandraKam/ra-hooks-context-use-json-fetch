@@ -1,0 +1,9 @@
+.App {
+  display: flex;
+  flex-direction: column;
+}
+
+.component{
+    text-align: center;
+    padding: 10px;
+}
